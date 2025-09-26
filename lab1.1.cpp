@@ -13,4 +13,3 @@ int main() {
     cout << "bool: " << sizeof(bool) << " байт" << endl;
     return 0;
 }
-kakoi zhe ya krasivii
