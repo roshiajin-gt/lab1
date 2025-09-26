@@ -12,5 +12,5 @@ int main() {
     cout << "char: " << sizeof(char) << " байт" << endl;
     cout << "bool: " << sizeof(bool) << " байт" << endl;
     return 0;
+
 }
-pidoras
